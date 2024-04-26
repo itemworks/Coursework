@@ -40,8 +40,8 @@ h1 {
     margin: 20px;
     height: 74px;
 }
- #tite {
-    /*tite is for the labels*/
+/*tite is for the labels*/
+#tite {
     text-align: center;
     padding: 2px;
     border: 1px solid black;
